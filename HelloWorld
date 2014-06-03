@@ -2,4 +2,4 @@
 
 $ git init
 
-$ touch README
+$ touch HelloWorld
